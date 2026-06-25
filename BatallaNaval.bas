@@ -1,4 +1,6 @@
 ﻿REM  *****  BASIC  *****
+'Proyecto realizado en LibreOffice Basic para practicar variables, arreglos, procedimientos, eventos y lógica de programación
+
 
 Sub IniciarJuego()
 
